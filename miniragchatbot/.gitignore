@@ -8,3 +8,5 @@ qdrant_data/
 .DS_Store
 .idea/
 .vscode/
+server.log
+.pytest_cache/

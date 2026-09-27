@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+pyjwt
+python-dotenv
+agno
+qdrant-client
+sentence-transformers
+pymupdf
+rapidocr
+groq
+ollama
+openai
+pytest
+pytest-asyncio
+httpx
+truststore
